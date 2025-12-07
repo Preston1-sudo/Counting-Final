@@ -1,15 +1,13 @@
 # Counting-Final
 
-The purpose of this repository is to submit my final where I am tasked to create a bash script that displays a list of number starting from 1 and ends at 50 in a numerical order.
+The purpose of this repository is to show what I have learned and can create a bash script that will display a list of numbers starting from 1 and ending at 50.
 
-I had originally named the script file "1 to 50" but it would only display the first character since I did not use underscores to space the numbers and words.
-
-The new name for the file is "counting_script".
-
-Below is how to make sure the file is downloaded and how to exexcute the script.
+Below is how to make sure the file is downloaded and how to run the script to achieve the desired result of the script.
 
 Type "ls -l" to view and make sure the file was indeed downloaded.
 
 Type "./counting_script.sh" and then press enter.
 
-A list should appear that displays the 50 number list in order.
+A list should appear that displays the 50 number list in numerical order.
+
+If everyhting went perfectly, a list of numbers in order should appear.
